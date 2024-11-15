@@ -1,4 +1,4 @@
-#MediPredict
+#Flux-AI-generation projecct
 This repository contains the implementation of a text to image model using Flux.1-schnell model. The goal of this project is to generate AI images based on text based prompts and desciptions.
 
 #Project Overview
