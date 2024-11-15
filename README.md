@@ -1,3 +1,4 @@
+
 #Flux-AI-generation projecct
 This repository contains the implementation of a text to image model using Flux.1-schnell model. The goal of this project is to generate AI images based on text based prompts and desciptions.
 
@@ -23,4 +24,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Acknowledgements
-Special thanks to ComfyUI for providing the dataset. Inspired by various online resources and communities dedicated to data science and machine learning.
+Special thanks to ComfyUI for providing the dataset and https://github.com/camenduru/ComfyUI /content/TotoroUI for providng the codebase. Inspired by various online resources and communities dedicated to data science and machine learning.
